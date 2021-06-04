@@ -148,10 +148,6 @@ export function CarDetails() {
 
                 <About>
                     {car.about}{'\n'}{'\n'}
-                    {car.about}{'\n'}{'\n'}
-                    {car.about}{'\n'}{'\n'}
-                    {car.about}{'\n'}{'\n'}
-                    
                 </About>
             </Animated.ScrollView>
 
